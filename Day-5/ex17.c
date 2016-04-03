@@ -95,7 +95,7 @@ void Database_create(struct Connection *conn)
 
 void Database_set(struct Connection *conn, int id, const char *name, const char *email)
 {
-	struct Address *addr = &conn->db->rows[id];
+	struct Address *addr = &conn->db->rows[id]; //nested struct pointers, reads: get the element id of rows which is in db which is in conn and then get the address of conn using &
 	if(addr->set) die("Already set, delete it first");
 
 	addr->set = 1;
