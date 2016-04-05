@@ -73,7 +73,7 @@ void test_sorting(int *numbers, int count, compare_cb cmp)
 	if(!sorted) die("Failed to sort as requested.");
 
 	for(i = 0; i < count; i++) {
-		printf("%d", sorted[i]);
+		printf("%d ", sorted[i]);
 	}
 	printf("\n");
 
