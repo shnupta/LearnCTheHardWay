@@ -1,9 +1,11 @@
+//general includes we need
 #include <stdio.h>
 #include <stdlib.h>
 #include <errno.h>
 #include <string.h>
 
 //Die from excersize 17 ! :) 
+//used for error checking
 void die(const char *message)
 {
 	if (errno) {
@@ -25,7 +27,7 @@ int *bubble_sort (int *numbers, int count, compare_cb cmp)
 	int temp = 0;
 	int i = 0;
 	int j = 0;
-	int *target = malloc(count * sizeof(int));
+	int *target = malloc(count * sizeof(int)); //target is a pointer to the allocated memory
 
 	if(!target) die("Memory error.");
 
@@ -33,9 +35,11 @@ int *bubble_sort (int *numbers, int count, compare_cb cmp)
 
 	for (i = 0; i < count; i++) {
 		for (j = 0; j < count -1; j++) {
-			temp = target[j+1];
-			target[j+1] = target[j];
-			target[j] = temp;
+			if(cmp(target[j], target[j+1]) > 0) {
+				temp = target[j+1];
+				target[j+1] = target[j];
+				target[j] = temp;
+			}
 		}
 	}
 
@@ -44,7 +48,7 @@ int *bubble_sort (int *numbers, int count, compare_cb cmp)
 }
 
 int sorted_order(int a, int b) {
-	return a -b;
+	return a - b;
 }
 
 int reverse_order(int a, int b) {
@@ -69,8 +73,9 @@ void test_sorting(int *numbers, int count, compare_cb cmp)
 	if(!sorted) die("Failed to sort as requested.");
 
 	for(i = 0; i < count; i++) {
-		printf("%d \n", sorted[i]);
+		printf("%d", sorted[i]);
 	}
+	printf("\n");
 
 	free(sorted);
 
