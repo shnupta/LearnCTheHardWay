@@ -20,7 +20,7 @@ void die(const char *message)
 typedef int (*compare_cb)(int a, int b);
 
 //a classic bubble sort that uses the compare_cb to do the sorting
-int *bubble_sort (*compare_cb)(int *numbers, int count, compare_cb cmp) 
+int *bubble_sort (int *numbers, int count, compare_cb cmp) 
 {
 	int temp = 0;
 	int i = 0;
