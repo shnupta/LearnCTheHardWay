@@ -197,8 +197,19 @@ int process_input(Map *game)
     return 1;
 }
 
+void automate(Map *game, char input[]) {
+    printf("%lu\n", sizeof(input) - 1);
+    //for(int i = 0; i < sizeof(input); i++)
+}
+
 int main(int argc, char *argv[])
 {
+    Map *game = NEW(Map, "The Hall of the Minotaur.");
+    char myarray[] = "nsneww";
+    automate(game, myarray);
+    
+
+    /*
     // simple way to setup the randomness
     srand(time(NULL));
 
@@ -210,6 +221,7 @@ int main(int argc, char *argv[])
 
     while(process_input(game)) {
     }
+    */
 
     return 0;
 }
