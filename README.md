@@ -13,4 +13,4 @@ I will go at my own pace completing and redoing each excersize as I feel necessa
 - Day 5: 3/4/16 - Ex16 - Ex17
 - Day 6: 4/4/16 - MY OWN STACK DATA STRUCTURE! :D
 - Day 7: 5/4/16 - Ex18 (less time and harder excersizes = less excersizes / day)
-
+- Day 8: 6/4/16 - Ex19
