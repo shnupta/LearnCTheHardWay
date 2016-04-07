@@ -1,6 +1,6 @@
 CFLAGS=-Wall -g
 
-all: ex19
+all: ex19 testscript
 
 ex19: object.o
 testscript: object.o

@@ -1,0 +1,2 @@
+I was having a bit of trouble with writing a test script for excersize 19 to automate some testing. I will sometime go back and write the test script properly and also
+maybe in the future seperate the game mechanics into another file so I can make a little text based dungeon crawler.

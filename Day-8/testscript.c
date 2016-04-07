@@ -197,16 +197,49 @@ int process_input(Map *game)
     return 1;
 }
 
-void automate(Map *game, char input[]) {
-    printf("%lu\n", sizeof(input) - 1);
-    //for(int i = 0; i < sizeof(input); i++)
+char randChar() {
+    srand(time(NULL));
+
+    int num;
+    for (int i = 0; i < 100; i++) {
+        num = 97+(rand()%26);
+    }
+
+    char randchar = (char) num;
+    return randchar;
+}
+
+char *randString(int length) {
+    char string[length];
+    char *randchar = (rand() %(122-97));
+    return randchar;
+}
+
+void automate(Map *game, char *input) {
+    //printf("%lu\n", strlen(inputted)) ;
+    for(int i = 0; i < strlen(input); i++) {
+        printf("%c\n", input[i]);
+    }
 }
 
 int main(int argc, char *argv[])
 {
-    Map *game = NEW(Map, "The Hall of the Minotaur.");
-    char myarray[] = "nsneww";
-    automate(game, myarray);
+    int repeats = 10;
+    int count = 0;
+
+    char myarray = randchar();
+
+    printf("%c\n", myarray);
+
+    /*while(count < repeats) {
+        srand(time(NULL));
+        int randomNum = rand() % 20;
+        Map *game = NEW(Map, "The Hall of the Minotaur.");
+        char *myarray = randString(randomNum);
+        automate(game, myarray);
+
+        count++;
+    }*/
     
 
     /*
