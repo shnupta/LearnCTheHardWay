@@ -17,4 +17,4 @@ I will go at my own pace completing and redoing each excersize as I feel necessa
 - Day 7: 5/4/16 - Ex18 (less time and harder excersizes = less excersizes / day)
 - Day 8: 6/4/16 - Ex19
 - Day 9: 7/4/16 - Ex20 and dbg.h (READ: videohelp.txt)
-- Day 10 8/4/16 - Video 4 
+- Day 10: 8/4/16 - Video 4 
