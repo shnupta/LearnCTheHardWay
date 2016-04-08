@@ -1,0 +1,13 @@
+7/4/16
+
+I've decided that from now on I'm going to complete an excersize then find
+the relevent video from Derek Banas on Youtube. I'm doing this as I feel that
+the learn c the hard way book doesn't go into quite enough detail but
+also I think I need to use the technique that I'm being taught more 
+than just once to get the jist of it and remember all I can about it. I will
+link the video I'm using to learn off of as well as the book excersize. The
+source files for the book and the videos will be in seperate files to
+organise it better.
+
+The playlist: https://www.youtube.com/playlist?list=PLGLfVvz_LVvSaXCpKS395wbCcmsmgRea7
+
