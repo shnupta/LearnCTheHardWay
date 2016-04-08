@@ -1,7 +1,7 @@
 # LearnCTheHardWay
 My path to learning C
 
-I'm learning C with this website: http://c.learncodethehardway.org/book/
+I'm learning C with this website: http://c.learncodethehardway.org/book/\n
 Derek Banas C Playlist: https://www.youtube.com/playlist?list=PLGLfVvz_LVvSaXCpKS395wbCcmsmgRea7
 
 The way I am completing the book is by trying to code at least once a day for at least 30+ mins.
