@@ -19,6 +19,7 @@ I will go at my own pace completing and redoing each exercize as I feel necessar
 - Day 9: 7/4/16 - Ex20 and dbg.h (READ: videohelp.txt)
 - Day 10: 8/4/16 - Video 4 
 - Day 11: 9/4/16 - Ex21 and some videos (a lot to do here)
+- Day 12: 10/4/16 - Ex21, I'm going away for a week from tomorrow
 
 
 
