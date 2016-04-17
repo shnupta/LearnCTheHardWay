@@ -20,6 +20,7 @@ I will go at my own pace completing and redoing each exercize as I feel necessar
 - Day 10: 8/4/16 - Video 4 
 - Day 11: 9/4/16 - Ex21 and some videos (a lot to do here)
 - Day 12: 10/4/16 - Ex21, I'm going away for a week from tomorrow
+- Day 13: 17/4/16 - Ex21 - Type Conversion (and I'm back! see day-13/info.txt)
 
 
 
