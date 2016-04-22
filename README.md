@@ -22,6 +22,7 @@ I will go at my own pace completing and redoing each exercize as I feel necessar
 - Day 12: 10/4/16 - Ex21, I'm going away for a week from tomorrow
 - Day 13: 17/4/16 - Ex21 - Type Conversion, Type Sizes, Available Operators and Control Structures (and I'm back! see day-13/info.txt)
 - Day 14: 18/4/16 - Ex22 :) 
+- Day 15: 21/4/16 - Ex23, slowing down now due to upcoming exams
 
 
 FULL LIST OF EXERCISES:
