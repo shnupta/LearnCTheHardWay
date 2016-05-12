@@ -24,6 +24,7 @@ I will go at my own pace completing and redoing each exercize as I feel necessar
 - Day 14: 18/4/16 - Ex22 :) 
 - Day 15: 21/4/16 - Ex23, slowing down now due to upcoming exams
 - Day 16: 10/5/16 - Ex24
+- Day 17: 12/5/16 - Ex25, exams finish in two weeks
 
 
 FULL LIST OF EXERCISES:
