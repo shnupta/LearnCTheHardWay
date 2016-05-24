@@ -26,7 +26,8 @@ I will go at my own pace completing and redoing each exercize as I feel necessar
 - Day 16: 10/5/16 - Ex24
 - Day 17: 12/5/16 - Ex25, exams finish in two weeks
 - Day 18: 15/5/16 - Ex26 part 1, started Ex25 and will finish some more next time :)
-- Day 19: 16/6/16 - Ex26 part 2, finished writing shell.c but im stuck on analysing some of the functions and how it works so I've posted on a forum and waiting for a reply.
+- Day 19: 16/5/16 - Ex26 part 2, finished writing shell.c but im stuck on analysing some of the functions and how it works so I've posted on a forum and waiting for a reply.
+- Day 20: 24/5/16 - Ex26 part 3, didn't have much time today. Finished adding comments on the db files
 
 
 FULL LIST OF EXERCISES:

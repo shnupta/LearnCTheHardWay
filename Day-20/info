@@ -1,0 +1,5 @@
+To learn a little more about the apr library and pools, memory management etc I have been using this site: http://www.apachetutor.org/dev/pools and also the apr docs on the apache website.
+
+From reading these docs as well as just self studying the bstrlib.h and bstrlib.c files I've tried to add in comments of what I understand the code and functions etc are doing. I'll continue to look up more about the libraries and study some other people's code to get an idea of how they work.
+
+My last official exam of this year is tomorrow so after that I should be getting back into the flow.
