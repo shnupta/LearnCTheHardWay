@@ -26,6 +26,6 @@ extern Shell TAR_SH;
 extern Shell CURL_SH;
 extern Shell CONFIGURE_SH;
 extern Shell MAKE_SH;
-extern INSTALL_SH;
+extern Shell INSTALL_SH;
 
 #endif
