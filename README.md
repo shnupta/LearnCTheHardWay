@@ -30,9 +30,37 @@ I will go at my own pace completing and redoing each exercize as I feel necessar
 - Day 20: 24/5/16 - Ex26 part 3, didn't have much time today. Finished adding comments on the db files
 
 
-FULL LIST OF EXERCISES:
-- Exercise 0: The Setup
-- Exercise 1: Dust Off That Compiler
+<h4>FULL LIST OF EXERCISES:</h4>
+<ul>
+<li><a href="http://c.learncodethehardway.org/book/ex0.html">Exercise 0: The Setup</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li><li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
+
 - Exercise 2: Make Is Your Python Now
 - Exercise 3: Formatted Printing
 - Exercise 4: Introducing Valgrind
