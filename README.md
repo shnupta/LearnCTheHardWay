@@ -34,82 +34,53 @@ I will go at my own pace completing and redoing each exercize as I feel necessar
 <ul>
 <li><a href="http://c.learncodethehardway.org/book/ex0.html">Exercise 0: The Setup</a></li>
 <li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li><li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 1: Dust Off That Compiler</a></li>
-
-- Exercise 2: Make Is Your Python Now
-- Exercise 3: Formatted Printing
-- Exercise 4: Introducing Valgrind
-- Exercise 5: The Structure Of A C Program
-- Exercise 6: Types Of Variables
-- Exercise 7: More Variables, Some Math
-- Exercise 8: Sizes And Arrays
-- Exercise 9: Arrays And Strings
-- Exercise 10: Arrays Of Strings, Looping
-- Exercise 11: While-Loop And Boolean Expressions
-- Exercise 12: If, Else-If, Else
-- Exercise 13: Switch Statement
-- Exercise 14: Writing And Using Functions
-- Exercise 15: Pointers Dreaded Pointers
-- Exercise 16: Structs And Pointers To Them
-- Exercise 17: Heap And Stack Memory Allocation
-- Exercise 18: Pointers To Functions
-- Exercise 19: A Simple Object System
-- Exercise 20: Zed's Awesome Debug Macros
-- Exercise 21: Advanced Data Types And Flow Control
-- Exercise 22: The Stack, Scope, And Globals
-- Exercise 23: Meet Duff's Device
-- Exercise 24: Input, Output, Files
-- Exercise 25: Variable Argument Functions
-- Exercise 26: Write A First Real Program
-- Exercise 27: Creative And Defensive Programming
-- Exercise 28: Intermediate Makefiles
-- Exercise 29: Libraries And Linking
-- Exercise 30: Automated Testing
-- Exercise 31: Debugging Code
-- Exercise 32: Double Linked Lists
-- Exercise 33: Linked List Algorithms
-- Exercise 34: Dynamic Array
-- Exercise 35: Sorting And Searching
-- Exercise 36: Safer Strings
-- Exercise 37: Hashmaps
-- Exercise 38: Hashmap Algorithms
-- Exercise 39: String Algorithms
-- Exercise 40: Binary Search Trees
-- Exercise 41: Using Cachegrind And Callgrind For Performance Tuning
-- Exercise 42: Stacks and Queues
-- Exercise 43: A Simple Statistics Engine
-- Exercise 44: Ring Buffer
-- Exercise 45: A Simple TCP/IP Client
-- Exercise 46: Ternary Search Tree
-- Exercise 47: A Fast URL Router
-- Exercise 48: A Tiny Virtual Machine Part 1
-- Exercise 48: A Tiny Virtual Machine Part 2
-- Exercise 50: A Tiny Virtual Machine Part 3
-- Exercise 51: A Tiny Virtual Machine Part 4
-- Exercise 52: A Tiny Virtual Machine Part 5
-
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 2: Make Is Your Python Now</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 3: Formatted Printing</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 4: Introducing Valgrind</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 5: The Structure Of A C Program</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 6: Types Of Variablesr</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 7: More Variables, Some Math</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 8: Sizes And Arrays</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 9: Arrays And Strings</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 10: Arrays Of Strings, Looping</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 11: While-Loop And Boolean Expressions</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 12: If, Else-If, Else</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 13: Switch Statement</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 14: Writing And Using Functions</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 15: Pointers Dreaded Pointers</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 16: Structs And Pointers To Them</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 17: Heap And Stack Memory Allocation</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 18: Pointers To Functions</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 19: A Simple Object Systemr</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 20: Zed's Awesome Debug Macros</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 21: Advanced Data Types And Flow Control</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 22: The Stack, Scope, And Globals</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 23: Meet Duff's Device</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 24: Input, Output, Files</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 25: Variable Argument Functions</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 26: Write A First Real Program</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 27: Creative And Defensive Programming</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 28: Intermediate Makefiles</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 29: Libraries And Linking</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 30: Automated Testing</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 31: Debugging Code</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 32: Double Linked Lists</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 33: Linked List Algorithms</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 34: Dynamic Array</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 35: Sorting And Searching</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 36: Safer Strings</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 37: Hashmaps</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 38: Hashmap Algorithms</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 39: String Algorithms</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 40: Binary Search Trees</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 41: Using Cachegrind And Callgrind For Performance Tuning</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 42: Stacks and Queues</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 43: A Simple Statistics Engine</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 44: Ring Buffer</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 45: A Simple TCP/IP Client</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 46: Ternary Search Tree</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 47: A Fast URL Router</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 48: A Tiny Virtual Machine Part 1</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 49: A Tiny Virtual Machine Part 2</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 50: A Tiny Virtual Machine Part 3</a></li>
+<li><a href="http://c.learncodethehardway.org/book/ex1.html">Exercise 51: A Tiny Virtual Machine Part 4</a></li>
