@@ -30,6 +30,7 @@ I will go at my own pace completing and redoing each exercize as I feel necessar
 - Day 20: 24/5/16 - Ex26 part 3, didn't have much time today. Finished adding comments on the db files
 - Day 21: 25/5/16 - Ex26 part 4 (i guess), tried analysing some more but still stuck on Shell_exec function in shell.c, asked for help from author 
 - Day 22: 29/5/16 - Ex26 part 5
+- Day 23: 30/5/16 - Ex26 part 6
 
 <h4>FULL LIST OF EXERCISES:</h4>
 <ul>
