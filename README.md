@@ -33,6 +33,7 @@ I will go at my own pace completing and redoing each exercize as I feel necessar
 - Day 23: 30/5/16 - Ex26 part 6
 - Day 24: 31/5/16 - Ex26 part 7, finished writing all source files and compiles, but error when installing - cannot cleanup before build
 - Day 25: 4/6/16 - Ex26 part 8, fixing bugs, still unable to recognise how to handle file.
+- Day 26: 7/6/16 - Ex26 done, I've finished it and completely checked my code? but doesn't work on what I've tested, Zed's fault maybe?
 
 <h4>FULL LIST OF EXERCISES:</h4>
 <ul>
