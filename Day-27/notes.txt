@@ -1,0 +1,53 @@
+Creative and Defensive Programming.
+
+The Creative Mindset:
+I can't make a mistake.
+It doesn't matter what people think.
+Whatever my brain comes up with is going to be a great idea.
+Adopt this mindset temporarily to come up with ideas, even if they are super rough. Use it to find solutions without fear of being wrong.
+
+After you have a working creative prototype and you're feeling good about the idea, it's time to switch to being a defensive programmer.
+
+The Defensive Mindset:
+Software has errors.
+You are not your software, yet you are are responsible for the errors.
+You can never remove the errors, only reduce their probability.
+This mindset lets you be honest about your work and critically analyze it for improvements.
+
+REMEMBER:
+Both mindsets have their dark sides. Use them until your solution is found or something new arises.
+
+The Eight Defensive Programmer Strategies:
+Never Trust Input
+Never trust the data you are given and always validate it.
+Prevent Errors
+If an error is possible, no matter how probable, try to prevent it.
+Fail Early And Openly
+Fail early, cleanly, and openly, stating what happened, where and how to fix it.
+Document Assumptions
+Clearly state the pre-conditions, post-conditions, and invariants.
+Prevention Over Documentation
+Do not do with documentation, that which can be done with code or avoided completely.
+Automate Everything
+Automate everything, especially testing.
+Simplify And Clarify
+Always simplify the code to the smallest, cleanest form that works without sacrificing safety.
+Question Authority
+Do not blindly follow or reject rules.
+
+Things you can try to do with all your functions:
+For each parameter identify what its preconditions are, and whether the precondition should cause a failure or return an error. If you are writing a library, favor errors over failures.
+Add assert calls at the beginning that checks for each failure precondition using assert(test && "message"); This little hack does the test, and when it fails the OS will typically print the assert line for you, which then includes that message. Very helpful when you're trying to figure out why that assert is there.
+For the other preconditions, return the error code or use my check macro to do that and give an error message. I didn't use check in this example since it would confuse the comparison.
+Document why these preconditions exist so that when a programmer hits the error they can figure out if they are really necessary or not.
+If you are modifying the inputs, make sure that they are correctly formed when the function exits, or abort if they aren't.
+Always check the error codes of functions you use. For example, people frequently forget to check the return codes from fopen or fread which causes them to use the resources they give despite the error. This causes your program to crash or gives an avenue for an attack.
+You also need to be returning consistent error codes so that you can do this for all of your functions too. Once you get in this habit you will then understand why my check macros work the way they do.
+
+Common things programmers fail to automate but they should:
+
+Testing and validation.
+Build processes.
+Deployment of software.
+System administration.
+Error reporting.
