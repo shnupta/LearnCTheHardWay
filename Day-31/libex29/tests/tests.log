@@ -1,0 +1,3 @@
+[ERROR] (function:main tests/ex29_tests.c:11: errno: None) USAGE: ex29 libex29.so function data string_length.
+[ERROR] (function:uppercase src/libex29.c:13: errno: None) Length is not the same as the length of provided string.
+[ERROR] (function:main tests/ex29_tests.c:23: errno: None)  Function uppercase returned -1 for data: Test StRiNg

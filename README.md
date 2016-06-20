@@ -38,6 +38,7 @@ I will go at my own pace completing and redoing each exercize as I feel necessar
 - Day 28: 13/6/16 - Ex28
 - Day 29: 15/5/16 - Ex29 - will do the extra credit next time
 - Day 30: 19/6/16 - Ex29 extra credit - first part (need to do c-skeleton part)
+- Day 31: 20/6/16 - Ex29 finished all extra credit
 
 <h4>FULL LIST OF EXERCISES:</h4>
 <ul>
