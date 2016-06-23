@@ -1,0 +1,3 @@
+[ERROR] (function:uppercase src/libex29.c:13: errno: None) Length is not the same as the length of provided string.
+[ERROR] (function:check_function tests/libex29_tests.c:14: errno: None) Function uppercase returned -1 for data: Hello
+[ERROR] (function:test_functions tests/libex29_tests.c:34: errno: None) uppercase failed.
