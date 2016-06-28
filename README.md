@@ -17,18 +17,18 @@ I will go at my own pace completing and redoing each exercize as I feel necessar
 - Day 7: 5/4/16 - Ex18 (less time and harder excersizes = less excersizes / day)
 - Day 8: 6/4/16 - Ex19
 - Day 9: 7/4/16 - Ex20 and dbg.h (READ: videohelp.txt)
-- Day 10: 8/4/16 - Video 4 
+- Day 10: 8/4/16 - Video 4
 - Day 11: 9/4/16 - Ex21 and some videos (a lot to do here)
 - Day 12: 10/4/16 - Ex21, I'm going away for a week from tomorrow
 - Day 13: 17/4/16 - Ex21 - Type Conversion, Type Sizes, Available Operators and Control Structures (and I'm back! see day-13/info.txt)
-- Day 14: 18/4/16 - Ex22 :) 
+- Day 14: 18/4/16 - Ex22 :)
 - Day 15: 21/4/16 - Ex23, slowing down now due to upcoming exams
 - Day 16: 10/5/16 - Ex24
 - Day 17: 12/5/16 - Ex25, exams finish in two weeks
 - Day 18: 15/5/16 - Ex26 part 1, started Ex25 and will finish some more next time :)
 - Day 19: 16/5/16 - Ex26 part 2, finished writing shell.c but im stuck on analysing some of the functions and how it works so I've posted on a forum and waiting for a reply.
 - Day 20: 24/5/16 - Ex26 part 3, didn't have much time today. Finished adding comments on the db files
-- Day 21: 25/5/16 - Ex26 part 4 (i guess), tried analysing some more but still stuck on Shell_exec function in shell.c, asked for help from author 
+- Day 21: 25/5/16 - Ex26 part 4 (i guess), tried analysing some more but still stuck on Shell_exec function in shell.c, asked for help from author
 - Day 22: 29/5/16 - Ex26 part 5
 - Day 23: 30/5/16 - Ex26 part 6
 - Day 24: 31/5/16 - Ex26 part 7, finished writing all source files and compiles, but error when installing - cannot cleanup before build
@@ -42,6 +42,8 @@ I will go at my own pace completing and redoing each exercize as I feel necessar
 - Day 32: 22/6/16 - Ex30, started 30, bit late so will finish tomorrow probably
 - Day 33: 23/6/16 - completed ex30 and ex31
 - Day 34: 27/6/16 - completed ex32
+- Day 35: 28/6/16 - started ex 33
+
 
 <h4>FULL LIST OF EXERCISES:</h4>
 <ul>
