@@ -45,6 +45,7 @@ I will go at my own pace completing and redoing each exercize as I feel necessar
 - Day 35: 28/6/16 - started ex 33
 - Day 36: 6/7/16 - been pretty busy with work experience and stuff lately, done ex33
 - Day 37: 12/7/16 - done the darray.h file, one week of school left!
+- Day 38: 13/7/16 - finished ex34
 
 
 <h4>FULL LIST OF EXERCISES:</h4>
