@@ -103,3 +103,9 @@ I will go at my own pace completing and redoing each exercize as I feel necessar
 <li><a href="http://c.learncodethehardway.org/book/ex50.html">Exercise 50: A Tiny Virtual Machine Part 3</a></li>
 <li><a href="http://c.learncodethehardway.org/book/ex51.html">Exercise 51: A Tiny Virtual Machine Part 4</a></li>
 </ul>
+
+
+
+
+<h1>UPDATE:</h1>
+<p>So after quite a while of using learn c the hard way, I've decided to not continue to the end. This is completely and only down to the fact that I did not like the teaching style of the course. I felt it left too many unanswered questions (some questions unanswered are great to get you used to figuring what you'll do to find the answers but then - as a learning resource it didn't give me enough explicit information). For this reason I'm stopping learn c the hard way and am going to continue with other projects and learning.</p>
